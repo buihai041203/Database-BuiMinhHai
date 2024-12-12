@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\StoreManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\loginapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\loginapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\updateeployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\updateeployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|d:\\storemanagementsystem\\storemanagementsystem\\addemlpoyees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\addemlpoyees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\addemlpoyees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\addemlpoyees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\manageemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\manageemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\manageemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\manageemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\updatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\updatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\managacustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\managacustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\updatewarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\updatewarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionHistory.cs",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\TransactionHistory.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\TransactionHistory.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\TransactionHistory.cs",
+              "RelativeToolTip": "StoreManagementSystem\\TransactionHistory.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwG8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:37:53.329Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionHistory.cs [Design]",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\TransactionHistory.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\TransactionHistory.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\TransactionHistory.cs [Design]",
+              "RelativeToolTip": "StoreManagementSystem\\TransactionHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:41:10.066Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEmlpoyees.cs",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\AddEmlpoyees.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\AddEmlpoyees.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\AddEmlpoyees.cs",
+              "RelativeToolTip": "StoreManagementSystem\\AddEmlpoyees.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:55:48.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageEmployees.cs",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManageEmployees.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\ManageEmployees.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManageEmployees.cs",
+              "RelativeToolTip": "StoreManagementSystem\\ManageEmployees.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAkwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:55:32.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginApp.cs [Design]",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\LoginApp.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\LoginApp.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\LoginApp.cs [Design]*",
+              "RelativeToolTip": "StoreManagementSystem\\LoginApp.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:25:05.982Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaleForm.cs",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\SaleForm.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\SaleForm.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\SaleForm.cs",
+              "RelativeToolTip": "StoreManagementSystem\\SaleForm.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAhwDAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:28:26.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\Menu.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\Menu.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\Menu.cs [Design]",
+              "RelativeToolTip": "StoreManagementSystem\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:45:51.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\UpdateCustomer.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\UpdateCustomer.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\UpdateCustomer.cs [Design]",
+              "RelativeToolTip": "StoreManagementSystem\\UpdateCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:45:44.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateEployees.cs [Design]",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\UpdateEployees.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\UpdateEployees.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\UpdateEployees.cs [Design]",
+              "RelativeToolTip": "StoreManagementSystem\\UpdateEployees.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:45:42.372Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateWarehouse.cs [Design]",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\UpdateWarehouse.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\UpdateWarehouse.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\UpdateWarehouse.cs [Design]",
+              "RelativeToolTip": "StoreManagementSystem\\UpdateWarehouse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:45:38.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateProduct.cs [Design]",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\UpdateProduct.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\UpdateProduct.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\UpdateProduct.cs [Design]",
+              "RelativeToolTip": "StoreManagementSystem\\UpdateProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:26:55.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddProduct.cs [Design]",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\AddProduct.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\AddProduct.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\AddProduct.cs [Design]",
+              "RelativeToolTip": "StoreManagementSystem\\AddProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:26:17.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEmlpoyees.cs [Design]",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\AddEmlpoyees.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\AddEmlpoyees.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\AddEmlpoyees.cs [Design]",
+              "RelativeToolTip": "StoreManagementSystem\\AddEmlpoyees.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:26:15.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\AddCustomer.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\AddCustomer.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\AddCustomer.cs [Design]",
+              "RelativeToolTip": "StoreManagementSystem\\AddCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:26:12.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManagaCustomers.cs [Design]",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManagaCustomers.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\ManagaCustomers.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManagaCustomers.cs [Design]",
+              "RelativeToolTip": "StoreManagementSystem\\ManagaCustomers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:26:01.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageEmployees.cs [Design]",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManageEmployees.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\ManageEmployees.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManageEmployees.cs [Design]",
+              "RelativeToolTip": "StoreManagementSystem\\ManageEmployees.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:25:59.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageProducts.cs [Design]",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManageProducts.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\ManageProducts.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManageProducts.cs [Design]",
+              "RelativeToolTip": "StoreManagementSystem\\ManageProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:25:56.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaleForm.cs [Design]",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\SaleForm.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\SaleForm.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\SaleForm.cs [Design]",
+              "RelativeToolTip": "StoreManagementSystem\\SaleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:25:46.277Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WarehouseForm.cs [Design]",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\WarehouseForm.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\WarehouseForm.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\WarehouseForm.cs [Design]",
+              "RelativeToolTip": "StoreManagementSystem\\WarehouseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:25:37.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\AdminForm.cs",
+              "RelativeDocumentMoniker": "StoreManagementSystem\\AdminForm.cs",
+              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\AdminForm.cs [Design]",
+              "RelativeToolTip": "StoreManagementSystem\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:25:23.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
